@@ -1,7 +1,3 @@
-
-[submodule "do/sage-pe-play"]
-	path = do/sage-pe-play
-	url = https://github.com/TipTopBin/prompt-engineering-playground-with-sagemaker
 [submodule "do/chatgpt-prompts"]
 	path = do/chatgpt-prompts
 	url = https://github.com/TipTopBin/awesome-chatgpt-prompts
